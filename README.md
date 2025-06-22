@@ -1,2 +1,2 @@
 # dyvm
-dysayne verse manager
+Dyvinee verse manager
